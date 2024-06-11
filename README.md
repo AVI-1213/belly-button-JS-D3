@@ -20,7 +20,10 @@ The dataset reveals that a small handful of microbial species (also called opera
 - Used otu_ids for the marker colors.
 - Used otu_labels for the text values.
 ---
-### Dashboad rendered as per below image:
+## Interactive Dashboard Link :
+-  [Dashboard]([Link to view Interactive Dashboard](https://avi-1213.github.io/belly-button-challenge/Starter_Code/index.html))
+---  
+### Dashboad rendered as per below image: 
 ![Belly Button BioDiversity Dashboard](https://github.com/AVI-1213/belly-button-challenge/blob/main/dashboard.png)
 
 
